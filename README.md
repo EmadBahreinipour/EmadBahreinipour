@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m Emad 👋<br><br>I’m a computer engineer and MSc Computer Science student at the University of Milan.<br>Currently working as an AI Engineer / Data Scientist.<br>My background mixes software engineering and applied machine learning:<br>from Flutter desktop/mobile apps to NLP and multimodal fraud detection systems.<br>I enjoy building things end-to-end — data pipelines, models, and production-ready apps,<br>with a special interest in AI for healthcare, simulation, and intelligent decision support systems.<br>Here on GitHub, you’ll mostly find my experiments with Python and Flutter, plus some university and side projects I’m slowly polishing and releasing.<br>
 
 
